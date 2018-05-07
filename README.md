@@ -41,7 +41,7 @@ Open-source бот с функцией BackTest и PaperTrader
 * [Расчет выгодного способа для ввода живых денег в крипто-валюту](https://docs.google.com/spreadsheets/d/1fB1zwTbkHhq7dsJLEhfVll-DB8Mb5nEN-lI6P7ng7QE/edit?usp=sharing)
 * ["Дневник трейдинга"](https://docs.google.com/spreadsheets/d/1_eX8ws6s-pQif9Bm3yEcP5d7mZNB5P41GfTKWzWvnuA/edit?usp=sharing)
 
-# Donat
+## Donat
 
 | Валюта      | Наименование  | Кошелек |
 | ------------|:-------------:| -------:|
@@ -49,5 +49,5 @@ Open-source бот с функцией BackTest и PaperTrader
 | Ethereum  | ETH | 0x48ab63d30d40182800174ba4b0619a295cbe9d46 |
 | Litecoin  | LTC | LQ2UvLFKLsj2xwCfVDHsEbjQ9YkTPhkPKR |
 
-# MIT License
+## MIT License
 A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
