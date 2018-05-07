@@ -1,0 +1,2 @@
+# CryptoStupidity
+Общая информация
