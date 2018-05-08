@@ -49,6 +49,12 @@ Open-source бот с функцией BackTest и PaperTrader
 | Bitcoin   | BTC | 1Cc8EqQWQwES8n2mLSmRWNo5tfBU2B5WMH |
 | Ethereum  | ETH | 0x48ab63d30d40182800174ba4b0619a295cbe9d46 |
 | Litecoin  | LTC | LQ2UvLFKLsj2xwCfVDHsEbjQ9YkTPhkPKR |
+| Bitcoin Cash  | BCH | 14Yc5FBxQLAvkDtXpEz5k2ruFYuMoYBFAv |
+| Dash  | DASH | XifNX42RCkn7rGbZDJaLTmEJ9n72gcaxpv |
+| Ethereum Classic  | ETC | 0x26ed8c9059471c6dea02af3919b5595897bd4bd4 |
+| NEM  | XEM | 447cfc0749eff237 |
+| Monero  | XMR | 4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRx9J1WykvupAWKUswX |
+| Zcash  | ZEC | t1fiZW21xNPVT1ppGZG7GArN51RXqpMiVrL |
 
 ## MIT License
 A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
