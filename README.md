@@ -17,22 +17,22 @@
 ## Торговые боты
 Конфиги (```configs```) для ботов и ответы на основные вопросы, вы сможете найти в папке ```configs/<имябота>``` или перейти по ссылки из описания ниже.
 
-### [LeonArdo
+### LeonArdo
 Бесплатный демо-режим, с полным функционалом.  89$ единоразовая оплата
 
 * [Официальный сайт бота](www.marginsoftware.de)
-* [configs](configs/leonardo) / [Подробное описание и ответы на вопросы](configs/README.md)
+* [configs](configs/leonardo) / [Подробное описание и ответы на вопросы](configs/leonardo/README.md)
 
 ### Gbot
 Рабочий функционал с ограничением профита 0.05 BTC при превышение лимита 30$ / месяц за одну биржу
 
 * [Официальный сайт бота](https://gbot-trader.herokuapp.com)
-* [configs](configs/gbot) / [Подробное описание и ответы на вопросы](configs/README.md)
+* [configs](configs/gbot) / [Подробное описание и ответы на вопросы](configs/gbot/README.md)
 * [Телеграм-канал технической поддержки Gbota](https://t.me/gbottrader_chat)
 
 ### Profit Trailer
 
-* [configs](configs/profittrailer) / [Подробное описание и ответы на вопросы](configs/README.md)
+* [configs](configs/profittrailer) / [Подробное описание и ответы на вопросы](configs/profittrailer/README.md)
 
 ### Gekko
 Open-source бот с функцией BackTest и PaperTrader
