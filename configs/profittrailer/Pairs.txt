@@ -1,0 +1,180 @@
+###########################################################################################
+### Конфиги разработаты телеграм-каналом "Крипто глупости" https://t.me/CryptoStupidity ###
+### Видео по использованию http://www.youtube.com/c/КриптоГлупости                      ###
+### Присоединяйтесь к коллегам для обсуждения                                           ###
+###########################################################################################
+
+###Общие настройки###
+#Разрешаем торговать на парах только с BTC
+price_trigger_market = BTC
+
+#В каких парах разрешаем торговать. Рассчитано кол-во пар на 1 BTC. Если у вас баланс на бирже меньше, уменьшайте количество пар пропорционально.
+DEFAULT_trading_enabled = true
+enabled_pairs = BTC_DOGE, BTC_ETH, BTC_XRP, BTC_BCH, BTC_LTC, BTC_STR, BTC_XMR, BTC_DASH, BTC_XEM, BTC_ETC, BTC_OMG, BTC_LSK, BTC_ZEC, BTC_BCN, BTC_STEEM, BTC_BTS, BTC_SC, BTC_STRAT, BTC_ZRX, BTC_GNT, BCT_DCR
+
+#Разрешаем торговать только теме парами, которые добавлены на биржу не менее чем указанное количество в днях
+pair_min_listed_days = 0
+#"Стартовый баланс" будет отбражаться на главной странице. Используется для "торгов на бумаге"
+start_balance = 10
+#Перед выставлением ордера происходит проверка на объем. Если объема не достаточно, чтобы сработал наш ордер берется следующий в списке, менее выгодной по цене, но нужного нам объема. Позволяет срабатывать нешему ордеру целиком на 100%
+orderbook_profit_calculation = true
+#Сумма баланса на бирже, которая не будет использована в торгах
+keep_balance_percentage = 0
+#Объем торгов за 24 часа. Монеты с меньшим чем указано объемом не принимаются в торги.
+#DEFAULT_min_buy_volume = 150
+#Если стоимость монеты ниже указанной стоимости, то не принимается с торги. Позволяет избавится от монет с низкой стоимостью, который обычно попадают в раздел "Пыль" так как не возможно выставить минимальный ордер, так как его стоимость ниже чем разрешенная сумма на бирже
+DEFAULT_min_buy_price = 0
+#Какое максимальное количество пар разрешено для одновременной торговли.
+max_trading_pairs = 40
+#Если спред меньше указанного процента, то монета не принимается в торги. Отсекает от торгов с небольшой волатильностью
+#DEFAULT_max_buy_spread = 3
+
+
+###Общие настройки для пар которым не заданы индивидуальные настройки###
+#Общая настройка для всех пар которым не заданы индивидуальные настройки на закуп
+#Минимальный размер дохода в процентах
+DEFAULT_take_profit_percentage = 1
+#Процент изменения цены за указанный промежуток времени параметром "take_profit_wait_time".
+DEFAULT_take_profit_reset_percentage_move = 0
+#Если процент профита достигнут и цена не изменяется указанное время в минутах, соответственно и трейл не двигается, то бот включает принудительную продажу
+DEFAULT_take_profit_wait_time = 0
+#Купить монету, если изменения за 24 часа превысила заданный процент, может быть положительным и отрицательным
+DEFAULT_buy_min_change_percentage = 0
+#Купить монету, если изменения за 24 часа ниже заданного процента, может быть положительным и отрицательным
+DEFAULT_buy_max_change_percentage = 0
+#Как только цена достигла указанного профита, монета принудительно продаётся в независимости от остальных настроек. Значение "0" - отключает.
+DEFAULT_max_profit = 0
+
+#Минимальная сумма первого ордера
+DEFAULT_initial_cost = 0.005
+#Сколько денег не использовать для закупа новых монет, не влияет на покупки DCA. Значение в BTC. Например, 0.5 говорит о том, что для начального закупа будет использовано больше 0.5 BTC, а 0.5 остается для работы по DCA.
+#keep_balance = 0
+
+###Общие настройки стратегии на закуп для пар по которым не заданы индивидуальные настройки###
+#Общая настройка для всех пар которым не заданы индивидуальные настройки на закуп
+#Сигнал для закупа выпдается когда свеча пересекла нижнюю границу линии Боллинджера (настройки Боллинджера задаются в разделе Indicator)
+DEFAULT_A_buy_strategy = LOWBB
+#Когда выставлять ордер на покупку. Может принимать положительные и отрицательные значения. Например, -5 означает, что ордер будет выставлен ниже на 5% от момента, когда свеча пересекает нижнюю границу линии Боллинджера
+DEFAULT_A_buy_value = 0
+#Трейлинг на закуп в процентах
+DEFAULT_trailing_buy = 0.6
+
+###Общие настройки стратегии на продажу для пар по которым не заданы индивидуальные настройки###
+#Общая настройка для всех пар которым не заданы индивидуальные настройки на продажу
+#Сигнал на продажу: отступить заданный процент профита + трейл
+DEFAULT_A_sell_strategy = GAIN
+#Минимальный процент профита в процентах
+DEFAULT_A_sell_value = 1
+#Трейл на продажу в процентах
+DEFAULT_trailing_profit = 0.7
+
+###Индивидуальные настройки стратегии на продажу подобраны "руками" для каждой пары###
+#Если вы даже не используете какие-то из этих пар в торги, рекомендуется оставить настройку стратегии продажи, чтобы в дальнейшем не добавлять и не применять общие настройки, которые являются усредненными
+# Sell BTC/ETC
+ETC_A_sell_strategy = GAIN
+ETC_A_sell_value = 1
+ETC_trailing_profit = 0.6
+# Sell BTC/OMG
+OMG_A_sell_strategy = GAIN
+OMG_A_sell_value = 1.8
+OMG_trailing_profit = 1.1
+# Sell BTC/XMR
+XMR_A_sell_strategy = GAIN
+XMR_A_sell_value = 1.8
+XMR_trailing_profit = 0.6
+# Sell BTC/ZEC
+ZEC_A_sell_strategy = GAIN
+ZEC_A_sell_value = 2
+ZEC_trailing_profit = 0.6
+# Sell BTC/XEM
+XEM_A_sell_strategy = GAIN
+XEM_A_sell_value = 1
+XEM_trailing_profit = 0.6
+# Sell BTC/DOGE
+DOGE_A_sell_strategy = GAIN
+DOGE_A_sell_value = 50
+DOGE_trailing_profit = 6
+# Sell BTC/ETH
+ETH_A_sell_strategy = GAIN
+ETH_A_sell_value = 1.4
+ETH_trailing_profit = 0.65
+# Sell BTC/BCH
+BCH_A_sell_strategy = GAIN
+BCH_A_sell_value = 3
+BCH_trailing_profit = 0.8
+# Sell BTC/XRP
+XRP_A_sell_strategy = GAIN
+XRP_A_sell_value = 1.3
+XRP_trailing_profit = 0.7
+# Sell BTC/LTC
+LTC_A_sell_strategy = GAIN
+LTC_A_sell_value = 1.8
+LTC_trailing_profit = 1
+# Sell BTC/STR
+STR_A_sell_strategy = GAIN
+STR_A_sell_value = 9
+STR_trailing_profit = 2
+# Sell BTC/ZRX
+ZRX_A_sell_strategy = GAIN
+ZRX_A_sell_value = 5
+ZRX_trailing_profit = 2
+# Sell BTC/BTS
+BTS_A_sell_strategy = GAIN
+BTS_A_sell_value = 1.2
+BTS_trailing_profit = 0.8
+# Sell BTC/DASH
+DASH_A_sell_strategy = GAIN
+DASH_A_sell_value = 0.7
+DASH_trailing_profit = 0.35
+# Sell BTC/LSK
+LSK_A_sell_strategy = GAIN
+LSK_A_sell_value = 1
+LSK_trailing_profit = 0.95
+# Sell BTC/BCN
+BCN_A_sell_strategy = GAIN
+BCN_A_sell_value = 5
+BCN_trailing_profit = 2
+# Sell BTC/STEEM
+STEEM_A_sell_strategy = GAIN
+STEEM_A_sell_value = 3
+STEEM_trailing_profit = 1
+# Sell BTC/SC
+SC_A_sell_strategy = GAIN
+SC_A_sell_value = 2
+SC_trailing_profit = 0.6
+# Sell BTC/STRAT
+STRAT_A_sell_strategy = GAIN
+STRAT_A_sell_value = 2.5
+STRAT_trailing_profit = 1.2
+# Sell BTC/GNT
+GNT_A_sell_strategy = GAIN
+GNT_A_sell_value = 2
+GNT_trailing_profit = 1.5
+# Sell BTC/DCR
+DCR_A_sell_strategy = GAIN
+DCR_A_sell_value = 2.5
+DCR_trailing_profit = 0.6
+
+###Когда отправлять пары в DCA. Включается стратегия усреднения###
+#При каком падении отправляем пары в DCA (на дозакуп) для пар у которых не задны индивидуальные настройки 
+DEFAULT_DCA_enabled = -3.5
+
+###Настройки которые уменьшают ваш доход, но позволяют сократить время нахождения в "инвесторах". Включать не рекомендуется!###
+#Стоп-лосс и паник селл
+DEFAULT_stop_loss_trigger = 0
+DEFAULT_stop_loss_timeout = 0
+DEFAULT_panic_sell_enabled = false
+
+#Включает режим "только продавать" при включении закупать не будет, только продавать накупленное ранее. Актуально при резком росте рынка
+DEFAULT_sell_only_mode_enabled = false
+#Настройка тригиров для режима SOM (только продавать) не работают, если не активирован sell_only_mode
+price_drop_trigger = 12
+price_drop_recover_trigger = 5
+price_rise_trigger = 10
+price_rise_recover_trigger = 8
+#Задаёт количество в штуках ордеров на закуп. Пока не будет выкупленно заданное количество ордеров не будет выставлен ордер на продажу
+DEFAULT_consecutive_buy_trigger = 10
+#Если задать параметр в минутах и бот за это время не успевает завершить цикл "купил-продал", пара находится в DCA, то после этого времени бот начнет второй цикл и разрешит торговать паралельно по этой паре нескольким циклам
+DEFAULT_pending_order_wait_time = 0
+#Отменяет выставленные но не сработавшие ордера, если уровень прибыли достигла нужного значения
+DEFAULT_combined_cancel_pending_trigger = 0
