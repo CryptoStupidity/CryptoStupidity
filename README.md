@@ -53,7 +53,7 @@ Open-source бот с функцией BackTest и PaperTrader
 Русскоязычный информационный сайт о криптовалюте Bitcoin
 * [ru.investing.com](https://ru.investing.com/news/%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8-%D1%84%D1%8C%D1%8E%D1%87%D0%B5%D1%80%D1%81%D0%BE%D0%B2-%D0%B8-%D1%81%D1%8B%D1%80%D1%8C%D0%B5%D0%B2%D1%8B%D1%85-%D1%80%D1%8B%D0%BD%D0%BA%D0%BE%D0%B2) Новости фьючерсов и сырьевых рынков
 * [ituber.me](https://ituber.me) Сообщество ituber
-* [2bitcoins.ru](https://2bitcoins.ru)
+* [2bitcoins.ru](https://2bitcoins.ru) Все о биткоинах, альткоинах и майнинге криптовалют
 
 ### Ресурсы для мониторинга валют
 * [Мониторинг волатильности](https://monitor-volatility-poloniex.herokuapp.com/)
