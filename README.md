@@ -41,7 +41,8 @@ Open-source бот с функцией BackTest и PaperTrader
 * [Расчет выгодного способа для ввода живых денег в крипто-валюту](https://docs.google.com/spreadsheets/d/1fB1zwTbkHhq7dsJLEhfVll-DB8Mb5nEN-lI6P7ng7QE/edit?usp=sharing)
 * ["Дневник трейдинга"](https://docs.google.com/spreadsheets/d/1_eX8ws6s-pQif9Bm3yEcP5d7mZNB5P41GfTKWzWvnuA/edit?usp=sharing)
 
-## Donat
+## Donate/Поддержка
+Если хотите поддержать проект или конфиги принесли вам прибыль, будем рады любому вознаграждению, которое будет потрачено только на поддержание и развите проекта "Крипто глупости".
 
 | Валюта      | Наименование  | Кошелек |
 | ------------|:-------------:| -------:|
