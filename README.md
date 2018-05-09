@@ -5,7 +5,17 @@
 * [Ответы на частозадаваемые вопросы](docs/README.md)
 * [Биржи криптовалют](#Биржи-криптовалют)
 * [Торговые боты](#Торговые-боты)
+  * [LeonArdo](#leonardo)
+  * [Gbot](#gbot)
+  * [Profit Trailer](#profit-trailer)
+  * [Gekko](#gekko)
 * [Полезные ссылки](#Полезные-ссылки)
+  * [Основные](#Основные)
+  * [Актульные новости из мира криптовалюты](#Актульные-новости-из-мира-криптовалюты)
+  * [Ресурсы для мониторинга валют](#Ресурсы-для-мониторинга-валют)
+  * [Таблицы](#Таблицы)
+* [Donate / Поддержка](#donate--Поддержка)
+* [License](#mit-license)
 
 ## Биржи криптовалют
 
@@ -33,6 +43,7 @@
 ### Profit Trailer
 
 * [configs](configs/profittrailer) / [Подробное описание и ответы на вопросы](configs/profittrailer/README.md)
+* [Телеграм-канал технической поддержки Gbota](https://t.me/joinchat/DreUUw-n-aGoi2LunoJTFA)
 
 ### Gekko
 Open-source бот с функцией BackTest и PaperTrader
