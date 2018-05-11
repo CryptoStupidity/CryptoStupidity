@@ -13,6 +13,7 @@
   * [LeonArdo](#leonardo)
   * [Gbot](#gbot)
   * [Profit Trailer](#profit-trailer)
+  * [SWbot](#swbot)
   * [Gekko](#gekko)
 * [Полезные ссылки](#Полезные-ссылки)
   * [Основные](#Основные)
@@ -49,6 +50,12 @@
 
 * [configs](configs/profittrailer) / [Подробное описание и ответы на вопросы](configs/profittrailer/README.md)
 * [Телеграм-канал технической поддержки Gbota](https://t.me/joinchat/DreUUw-n-aGoi2LunoJTFA)
+
+### SWbot
+Работает на нескольких парах одновременно. Вебпанель со статистикой торгов, графиком и торговым терминалом. Двухсторонний трейлинг ордеров, составление стратегии для торговли по индикаторам.
+
+* [Официальный сайт бота](https://swbot.info)
+* [Телеграм-канал технической поддержки SWbot](https://t.me/Smart_bot_alfa)
 
 ### Gekko
 Open-source бот с функцией BackTest и PaperTrader
