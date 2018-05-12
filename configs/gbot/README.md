@@ -24,6 +24,12 @@
 * Реферальный код при покупке Gbot: CryptoStupidity. Укажите и это поможет поддержать проект "Крипто глупости" и переодически мотивировать нас, выкладывать свежие конфиги. Заранее спасибо!
 * [Сравнительная таблица по ботам](https://docs.google.com/spreadsheets/d/1VMG21PQHvU3cDLZ6fLL17TWjiEgWzSpRfk3jA37MMUg/edit?usp=sharing) где Gbot занимает одну из лидирующих позиций. Рекомендуем к применению.
 
+Тесты на самопроверку по знанию Gbot:
+
+* [Проверка минимальных знаний](https://docs.google.com/forms/d/e/1FAIpQLScNYnvyNwcVktCdiYjuY03nZOZczlRE-I39SUS3LEtlrbyJvA/viewform)
+* [Проврка на знание команд конфига](https://docs.google.com/forms/d/e/1FAIpQLSdrfoZHqFh-D7EVy6EjaAkGnJ-9LxvoSusVSyH_-RtTECXwtw/viewform)
+* [Проверка на понимание работы стратегий](https://docs.google.com/forms/d/e/1FAIpQLScvOuiwagILeM11tcyZcgPgV9SiqipOTPshhHcN0wsegriskQ/viewform)
+
 ## Цена
 
 Бот стоит 30$ в месяц аренды на одну биржу, но есть демо-режим, который полностью функциональный и ограничивает вас суммой торговли 0.05 BTC, на текущий момент времени это ~ 900 $. Поэтому если ваше депо больше 1000 $, то вы сможете оплатить 30$ за бота, а если меньше, то и покупать бота не нужно, торгуйте демо, как только ваше депо превысит 1000 $ вы сможете арендовать бота.
