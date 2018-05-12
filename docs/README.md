@@ -8,7 +8,7 @@
   * [Profit Trailer](#profit-trailer)
   * [SWbot](#swbot)
   * [Gekko](#gekko)
- * [Сводная информация](master/README.md)
+ * [Сводная информация](/README.md)
 
 # Общие вопросы
 
