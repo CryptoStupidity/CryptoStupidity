@@ -18,6 +18,8 @@
 Терминальный бот от российского разработчика. Зарекомендовал себя в первую очередь стабильностью, быстрой реакцией разработчика на доработки, минимальными требованиями к ресурсом и возможностью управления через телеграм.
 
 * [Официальный сайт бота Gbot](https://gbot-trader.herokuapp.com)
+* [Официальный readme Gbot](https://github.com/steeply/gbot-trader/blob/master/readme_ru.md)
+* [Официальный FAQ Gbot](/steeply/gbot-trader/blob/master/faq_ru.md)
 * [Телеграм-канал технической поддержки Gbota](https://t.me/gbottrader_chat)
 * Реферальный код при покупке Gbot: CryptoStupidity. Укажите и это поможет поддержать проект "Крипто глупости" и переодически мотивировать нас, выкладывать свежие конфиги. Заранее спасибо!
 * [Сравнительная таблица по ботам](https://docs.google.com/spreadsheets/d/1VMG21PQHvU3cDLZ6fLL17TWjiEgWzSpRfk3jA37MMUg/edit?usp=sharing) где Gbot занимает одну из лидирующих позиций. Рекомендуем к применению.
