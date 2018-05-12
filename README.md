@@ -55,6 +55,8 @@
 | [Kraken](https://www.kraken.com/)  | 0.16% \ 0.26% Первые 30 дней комиссия 0% | Bitcoin называют XBT. Популярна в США |
 | [Yobit](https://yobit.io/ru/)  | -% \ -% Неизвестно| Иногда глючит API. На русском языке. Любимица для "памперов" |
 
+[Расширенная версия таблицы "Анализ криптобирж"](https://docs.google.com/spreadsheets/d/1rsu_Z6FK113dWYq04NMaZXaQZ1cLDC0yktnhc3fkzF4/edit?usp=sharing) от @UltraPochan
+
 ## Торговые боты
 Конфиги (```configs```) для ботов и ответы на основные вопросы, вы сможете найти в папке ```configs/<имябота>``` или перейти по ссылки из описания ниже.
 
@@ -90,38 +92,58 @@
 * [configs](configs/swbot) / [Подробное описание и ответы на вопросы](configs/swbot/README.md)
 * [Телеграм-канал технической поддержки SWbot](https://t.me/Smart_bot_alfa)
 
+### Cryptorg
+
+Веб-бот, никаких программ, требуется только регистарция на сайте. Работает на нескольких парах одновременно. Демо-режим реальными деньгами только в парах с BTC и ограничением депо 0.025 BTC. Месяц подписки 25$.
+
+* [Официальный сайт бота Cryptorg](https://cryptorg.net/?ref=80478)
+* [configs](configs/swbot) / [Подробное описание и ответы на вопросы](configs/swbot/README.md)
+* [Телеграм-канал технической поддержки SWbot](https://t.me/Smart_bot_alfa)
+
+
 ### Gekko
 Бесплатный Open-source бот с функцией BackTest и PaperTrader.
 
 * [Официальный сайт](https://gekko.wizb.it/)
 * [Gekko Support Discord](https://discordapp.com/invite/26wMygt)
 
-### Cryptohopper
-Консольный бот с веб-интерфейсом. Работает на нескольких парах одновременно. Вебпанель со статистикой торгов, графиком и торговым терминалом. Аналог Profit Trailer, но от российского разработчика и проще в настройке. Демо-режим реальными деньгами только в парах с BTC и ограничением депо 0.025 BTC. Месяц подписки 25$.
+## В ближайшее время
 
-* [Официальный сайт бота SWbot](http://swbot.info/signup?ref=99)
-* [configs](configs/swbot) / [Подробное описание и ответы на вопросы](configs/swbot/README.md)
-* [Телеграм-канал технической поддержки SWbot](https://t.me/Smart_bot_alfa)
+### Cryptohopper
+
+### Gunbot
+
+### Haasbot
+
+### Moonbot
+
+
+
+Если вы хотите добавить нового бота, которого нет в списке, напишите в телеграм или дискорд и мы с радостью сделаем его обзор и добавим описание
 
 ## Полезные ссылки
 
 ### Основные
-* [https://t.me/CryptoStupidity](https://t.me/CryptoStupidity) Телеграм-канал для обсуждения различных торговых ботов и конфигураторов
-* [http://www.youtube.com/c/КриптоГлупости](http://www.youtube.com/c/КриптоГлупости) YouTube канал по использованию торговых ботов
-* [Сайт по обучению торговле ботами на бирже](https://www.buh-seminar.ru/)
+* [Телеграм-канал проекта "Крипто глупости"](https://t.me/CryptoStupidity) для обсуждения различных торговых ботов и конфигураторов
+* [Дискорд-сервер проекта "Крипто глупости"](https://discord.gg/FcyVPDb) с разбивкой на отдельные каналы по каждому боту, общий чат и прочие плюшки, которых нет в телеграм. К тому же, если у вас проблемы с доступом в телеграм, подключайтесь к дискорду.
+* [Ютуб-канал "Крипто глупости"](http://www.youtube.com/c/КриптоГлупости) YouTube канал с видео по настройке, запуску и конфигурированию торговых ботов. Уроки технического анализа.
+* [Тренинг по обучению торговли ботами на крипто-бирже](https://www.buh-seminar.ru/)
 
 ### Актульные новости из мира криптовалюты
-* [forklog.com](https://forklog.com/) Интернет-журнал о биткоине, криптовалютах и децентрализации
-* [bitnovosti.com](https://bitnovosti.com)
-Русскоязычный информационный сайт о криптовалюте Bitcoin
-* [ru.investing.com](https://ru.investing.com/news/%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8-%D1%84%D1%8C%D1%8E%D1%87%D0%B5%D1%80%D1%81%D0%BE%D0%B2-%D0%B8-%D1%81%D1%8B%D1%80%D1%8C%D0%B5%D0%B2%D1%8B%D1%85-%D1%80%D1%8B%D0%BD%D0%BA%D0%BE%D0%B2) Новости фьючерсов и сырьевых рынков
-* [ituber.me](https://ituber.me) Сообщество ituber
-* [2bitcoins.ru](https://2bitcoins.ru) Все о биткоинах, альткоинах и майнинге криптовалют
+* [forklog.com](https://forklog.com/) Рекомендуем подписаться. Пишут часто, но по делу и простым языком, рекламой не грузят.
+* [bitnovosti.com](https://bitnovosti.com) Информационный сайт о криптовалюте.
+* [2bitcoins.ru](https://2bitcoins.ru) Ребята пишут о майнинге и иногда о крипте в разрезе торгов, но пишут интересно и читать полезно.
 
 ### Ресурсы для мониторинга валют
 * [Мониторинг волатильности](https://monitor-volatility-poloniex.herokuapp.com/)
 * [Умный мониторинг](http://smartbot.su.swtest.ru/)
-* [Анализ бирж для крипто-торговли (подготовил @UltraPochan)](https://docs.google.com/spreadsheets/d/1rsu_Z6FK113dWYq04NMaZXaQZ1cLDC0yktnhc3fkzF4/edit?usp=sharing)
+
+### Анализ криптобирж
+* [Анализ криптобирж](https://docs.google.com/spreadsheets/d/1rsu_Z6FK113dWYq04NMaZXaQZ1cLDC0yktnhc3fkzF4/edit?usp=sharing) подготовил @UltraPochan
+
+### Подбор валютных пар для торгов
+* [CoinCheckUp](https://coincheckup.com/) Лучший из имеющийся на данный момент на рынке.
+* [CoinMarketCap](https://coinmarketcap.com/) Первый из сайтов, который публиковал аналитику по криптовалютам.
 
 ### Таблицы
 
@@ -145,6 +167,12 @@
 | NEM  | XEM | 447cfc0749eff237 |
 | Monero  | XMR | 4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRx9J1WykvupAWKUswX |
 | Zcash  | ZEC | t1fiZW21xNPVT1ppGZG7GArN51RXqpMiVrL |
+
+### При покупке ботов укажите реферальные коды. Это поможет проекту продолжать свою работу.
+
+* 
+* SWbot 
+
 
 ## MIT License
 A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
