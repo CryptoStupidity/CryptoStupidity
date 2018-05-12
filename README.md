@@ -12,9 +12,8 @@
 
 Присоединяйтесь к обсуждению:
 
-[Телеграм-канал "Крипто глупости" @CryptoStupidity](https://t.me/CryptoStupidity)
-
-[Дискорд-сервер "Крипто глупости"](https://discord.gg/FcyVPDb)
+* [Телеграм-канал "Крипто глупости" @CryptoStupidity](https://t.me/CryptoStupidity)
+* [Дискорд-сервер "Крипто глупости"](https://discord.gg/FcyVPDb)
 
 ## Объявление
 
@@ -145,13 +144,19 @@
 * [CoinCheckUp](https://coincheckup.com/) Лучший из имеющийся на данный момент на рынке.
 * [CoinMarketCap](https://coinmarketcap.com/) Первый из сайтов, который публиковал аналитику по криптовалютам.
 
-### Таблицы
+### Помощники тредера (на базе гугл.таблиц)
 
-* [Сравнению ботов](https://docs.google.com/spreadsheets/d/1VMG21PQHvU3cDLZ6fLL17TWjiEgWzSpRfk3jA37MMUg/edit?usp=sharing)
-* [Таблица доходности и рисков по торговле криптовалютами](https://docs.google.com/spreadsheets/d/1E4xQp7FsBfylYL1rEgXeinO8__tWRaVP_eLVFwR6HbY/edit?usp=sharing)
-* [Расчета конвертации валюты](https://docs.google.com/spreadsheets/d/1FXgUwSibQcTpBiN6l5okAcX5jHmyZmVu316mLZzeIEc/edit?usp=sharing)
-* [Расчет выгодного способа для ввода живых денег в крипто-валюту](https://docs.google.com/spreadsheets/d/1fB1zwTbkHhq7dsJLEhfVll-DB8Mb5nEN-lI6P7ng7QE/edit?usp=sharing)
-* ["Дневник трейдинга"](https://docs.google.com/spreadsheets/d/1_eX8ws6s-pQif9Bm3yEcP5d7mZNB5P41GfTKWzWvnuA/edit?usp=sharing)
+#### Внимание! Как скачать гугл.таблицу
+1. В левом-верхнем углу нажимаем меню "Файл"
+2. В выпадающем меню "Скачать как"
+3. Выбираем нужный формат и файл скачивается к вам на компьютер
+
+* [Сравнение ботов](https://docs.google.com/spreadsheets/d/1VMG21PQHvU3cDLZ6fLL17TWjiEgWzSpRfk3jA37MMUg/edit?usp=sharing)
+* [Таблица доходности и рисков по торговле криптовалютами](https://docs.google.com/spreadsheets/d/1E4xQp7FsBfylYL1rEgXeinO8__tWRaVP_eLVFwR6HbY/edit?usp=sharing) посчитайте что выгодно: трейдить или инвестировать в крипту
+* [Расчета конвертации валюты](https://docs.google.com/spreadsheets/d/1FXgUwSibQcTpBiN6l5okAcX5jHmyZmVu316mLZzeIEc/edit?usp=sharing) простой конвертор из битков в доллары или рубли
+* [Расчет выгодного способа для ввода живых денег в крипто-валюту](https://docs.google.com/spreadsheets/d/1fB1zwTbkHhq7dsJLEhfVll-DB8Mb5nEN-lI6P7ng7QE/edit?usp=sharing) через какие биржи и когда выгодно заводить живые деньги в крипту
+* ["Дневник трейдинга"](https://docs.google.com/spreadsheets/d/1_eX8ws6s-pQif9Bm3yEcP5d7mZNB5P41GfTKWzWvnuA/edit?usp=sharing) если начали трейдить, начинайте вести дневник. Системно заполняйте его каждый день и сможете понять свои успехи и неудачи
+* [Внутрибиржевой арбитраж](https://docs.google.com/spreadsheets/d/17z0evxfYf3FtwBn0GQ1kVU_hCOs8rHELR-GzPuBTh-E/edit?usp=sharing) обычный обмен внутри одной бирже между тремя монетами можете приносить неплохую выгоду, найдите цепочки и получите доход от обмена, а не торговли.
 
 ## Donate / Поддержка
 Если хотите поддержать проект или конфиги принесли вам прибыль, будем рады любому вознаграждению, которое будет потрачено только на поддержание и развите проекта "Крипто глупости".
