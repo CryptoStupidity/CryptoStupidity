@@ -8,7 +8,7 @@
   * [Profit Trailer](#profit-trailer)
   * [SWbot](#swbot)
   * [Gekko](#gekko)
- * [Сводная информация](/README.md)
+ * [Сводная информация по всем ботам, биржам и данному проекту "Крипто глупости"](/README.md)
 
 # Общие вопросы
 
