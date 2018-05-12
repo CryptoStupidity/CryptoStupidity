@@ -13,6 +13,7 @@
 Присоединяйтесь к обсуждению:
 
 [Телеграм-канал "Крипто глупости" @CryptoStupidity](https://t.me/CryptoStupidity)
+
 [Дискорд-сервер "Крипто глупости"](https://discord.gg/FcyVPDb)
 
 ## Объявление
