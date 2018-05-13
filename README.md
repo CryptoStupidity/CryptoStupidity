@@ -92,6 +92,7 @@
 
 * [Официальный сайт бота Margin](https://margin.de/)
 * [configs](configs/leonardo) / [Подробное описание и ответы на вопросы](configs/leonardo/README.md)
+* Реферальная программа: При покупке укажите код ```boot_mail@mail.ru```
 
 При покупке Margin, пожалуйста, укажите реферальный емейл: boot_mail@mail.ru это поможет поддержать проект "Крипто глупости". Спасибо!
 
@@ -101,8 +102,7 @@
 * [Официальный сайт бота Gbot](https://gbot-trader.herokuapp.com)
 * [configs](configs/gbot) / [Подробное описание и ответы на вопросы](configs/gbot/README.md)
 * [Телеграм-канал технической поддержки Gbota](https://t.me/gbottrader_chat)
-
-Реферальный код при покупке Gbot: CryptoStupidity. Укажите и это поможет поддержать проект "Крипто глупости". Заранее спасибо!
+* Реферальная программа: При покупке укажите код ```CryptoStupidity```
 
 ### Profit Trailer
 
@@ -118,6 +118,7 @@
 * [Официальный сайт бота SWbot](http://swbot.info/signup?ref=99)
 * [configs](configs/swbot) / [Подробное описание и ответы на вопросы](configs/swbot/README.md)
 * [Телеграм-канал технической поддержки SWbot](https://t.me/Smart_bot_alfa)
+* Реферальная программа: http://swbot.info/signup?ref=99 или реферальный код 99
 
 ### Cryptorg
 
@@ -126,6 +127,7 @@
 * [Официальный сайт бота Cryptorg](https://cryptorg.net/?ref=80478)
 * [configs](configs/cryptorg) / [Подробное описание и ответы на вопросы](configs/cryptorg/README.md)
 * [Телеграм-канал технической поддержки cryptorg](https://t.me/cryptorg_rus)
+* Реферальная программа: https://cryptorg.net/?ref=80478 или реферальный код 80478
 
 
 ### Gekko
@@ -202,8 +204,8 @@
 
 ### При покупке ботов укажите реферальные коды. Это поможет проекту продолжать свою работу.
 
-* Cryptorg https://cryptorg.net/?ref=80478 или реферальный код 80478
-* SWbot http://swbot.info/signup?ref=99 или реферальный код 99
+* Cryptorg 
+* SWbot 
 * Gbot при покупке укажите код CryptoStupidity
 * Margin(LeonArdo) укажите реферальный емейл: boot_mail@mail.ru
 * Binance https://www.binance.com/?ref=19899895 или реферальный код 19899895
