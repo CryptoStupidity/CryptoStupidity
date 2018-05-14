@@ -101,7 +101,6 @@
 
 * [Официальный сайт бота Gbot](https://gbot-trader.herokuapp.com)
 * [configs](configs/gbot) / [Подробное описание и ответы на вопросы](configs/gbot/README.md)
-* [Телеграм-канал технической поддержки Gbota](https://t.me/gbottrader_chat)
 * Реферальная программа: При покупке укажите код ```CryptoStupidity```
 
 ### Profit Trailer
