@@ -13,7 +13,7 @@ We are looking for a partner for the development of the project. You are an Engl
 
 ## Оглавление
 
-* [Russian version](russian/docs/README.md)
+* [Russian version](https://github.com/CryptoStupidity/CryptoStupidity/blob/russian/README.md)
 * [Обучение по настройке ботов](#Обучение)
 * [Ответы на часто задаваемые вопросы](docs/README.md)
 * [Биржи криптовалют](#Биржи-криптовалют)
