@@ -1,18 +1,19 @@
-# CryptoStupidity / Криптоглупости
-Проект по обучению ручной и автоматической торговли криптовалютами. Подготовка технического анализа, настройка ботов.
+# CryptoStupidity
+Project on training manual and automatic trading in crypto-currencies. Preparation of technical analysis, setting up bots.
 
-Мы рассчитываем на ваше активное участие, если вы хотите добавить конфиги или описание торговых ботов, не стесняйтесь добавлять и обновлять информацию через ```Pull requests```, мы будем рады вашему участию. 
+We look forward to your active participation, if you want to add configs or description of trading bots, do not hesitate to add and update information via `` `Pull requests```, we will be glad to your participation.
 
 ***
 
-### Объявление
+### Ad
 
-Ищем партнера для развития проекта. Вы носитель английского языка или выходец из СНГ, хотите детально разобраться в работе торговых ботов и их настройке и при этом заработать денег. Пишите в [Telegram @mddr12](https://t.me/mddr12).
+We are looking for a partner for the development of the project. You are an English native speaker or a native of the CIS, you want to understand in detail the work of trading bots and their customization and at the same time earn money. Write to [Telegram @ mddr12] (https://t.me/mddr12).
 
 ***
 
 ## Оглавление
 
+* [Russian version](russian/docs/README.md)
 * [Обучение по настройке ботов](#Обучение)
 * [Ответы на часто задаваемые вопросы](docs/README.md)
 * [Биржи криптовалют](#Биржи-криптовалют)
