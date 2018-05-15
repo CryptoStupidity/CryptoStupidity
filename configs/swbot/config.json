@@ -1,0 +1,8 @@
+{
+	"apikey": "your_api_key",
+	"apisecret": "your_api_secret",
+	"tlg_chat_id": "your_tlg_chatid",
+	"tlg_bot_token": "your_tlg_bot_token",
+	"market": "bittrex/binance/poloniex",
+	"tmp_config": "beginner"
+}
