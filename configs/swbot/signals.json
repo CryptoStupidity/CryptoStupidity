@@ -1,0 +1,22 @@
+{"wp_command":1, - включаем возможность редактировать конфиг во время торгов
+"profit_percent":0.1, - заданный процент профита. При торговле по сигналам процент профита не так важен, потому что основная нагрузка на профит приходится на трейл.
+"first_order_indent":-0.1, - отступ первого ордера минусовой, чтобы при получении сигнала сразу же проходил закуп.
+"first_order_expense":0.0011, - минимально допустимый размер ордера. Так как страховочных ордеров может быть очень много.
+"trail_back_price_percent":0.8, - трейл на продажу.
+"smart_grid_price_percent":0, - трейл на закуп отключен, но мы его вписываем в конфиг, чтобы при необходимости было проще изменить локальный конфиг через веб-страницу.
+"sell_all":0, - учитывать ордера, которые были ранее
+"grid_type":"MARTIN", - тип торговли «Сетка по Мартингейлу»
+"height_set":10, - размер сетки 10%
+"count_orders":10, - количество ордеров 10, т.е. каждый 1% будет выставляться ордер на закуп.
+"martin":0, – размер мартингейла 0%, каждый ордер будет с минимальным ордером 0.0011 BTC
+"web_panel":1, - выводить информацию в веб-панель
+"market":"bittrex", - биржа
+"depo_percent":100, - разрешено использовать весь свободный баланс на бирже
+"depo_absolute":0,
+"smart_trade":1, - разрешена торговля по сигналам.
+"count_slots":1, - количество слотов, разрешенных в торгах
+"ST_delay":2, - время обращения за сигналами к системе аналитики
+"kill_after":360, - время в секундах, если за это время торги в паре не открылись, то она удаляется из торгов, освобождая место другим. 360 секунд = 6 минут
+"black_list":["BTC-RISE", "USDT-ETH", "USDT-XRP", "USDT-LTC", "USDT-ADA", "USDT-ETC", "USDT-BCC", "USDT-XVG", "USDT-NEO", "ETH-ADA", "USDT-OMG", "USDT-BTG", "USDT-XMR", "ETH-XRP", "ETH-LTC", "ETH-NEO", "ETH-BCC", "BTC-FUN", "USDT-ZEC", "ETH-SC", "ETH-ETC", "ETH-XEM", "BTC-GEO", "USDT-DASH", "ETH-OMG", "ETH-XLM", "ETH-WAX", "ETH-QTUM", "USDT-NXT", "ETH-SRN", "ETH-BNT", "ETH-QRL", "ETH-REP", "ETH-VEE", "ETH-STRAT", "BTC-MER", "BTC-EXP", "BTC-SHIFT", "BTC-AMP", "BTC-DYN", "BTC-NAV", "BTC-CLUB", "BTC-TRST", "BTC-BLK", "BTC-INFX", "BTC-MEME", "ETH-ZEC", "ETH-FUN", "BTC-DCT", "ETH-GNT", "ETH-DASH", "ETH-ZRX", "BTC-SPHR", "BTC-GLD", "BTC-FTC", "ETH-XMR", "ETH-SALT", "BTC-CLOAK", "BTC-NLG", "BTC-LUN", "BTC-EMC", "BTC-XMY", "BTC-PDC", "BTC-FLO", "ETH-SNT", "BTC-EBST", "BTC-VRM", "BTC-UNB", "BTC-XEL", "BTC-PPC", "ETH-BTG", "BTC-IOP", "BTC-NMR", "ETH-PAY", "BTC-BITB", "ETH-POWR", "BTC-CLAM", "ETH-WAVES", "BTC-SLR", "BTC-MUE", "BTC-LMC", "ETH-BAT", "ETH-DGB", "BTC-TX", "BTC-CRW", "BTC-SNRG", "BTC-RADS", "BTC-OMNI", "BTC-CANN", "BTC-KORE", "ETH-RLC", "ETH-DNT", "BTC-SPR", "ETH-VIB", "BTC-MUSIC", "BTC-MLN", "BTC-GCR", "BTC-GOLOS", "ETH-ADT", "BTC-ABY", "ETH-MCO", "BTC-ERC", "BTC-COVAL", "BTC-FLDC", "BTC-AUR", "BTC-SLS", "BTC-QWARK", "BTC-START", "BTC-DOPE", "ETH-ENG", "BTC-IOC", "BTC-EGC", "BTC-CPC", "BTC-BRX", "ETH-PTOY", "BTC-NXC", "BTC-INCNT", "ETH-RCN", "BTC-GRC", "BTC-TKS", "BTC-PTC", "BTC-XWC", "BTC-DMD", "ETH-GNO", "BTC-NEOS", "BTC-VTR", "BTC-PINK", "BTC-EFL", "BTC-BLITZ", "ETH-CVC", "ETH-CFI", "ETH-HMQ", "ETH-ANT", "BTC-CRB", "ETH-MANA", "BTC-ENRG", "ETH-ADX", "BTC-XMG", "BTC-GBG", "ETH-1ST", "BTC-BCY", "BTC-XVC", "BTC-LGD", "ETH-STORJ", "BTC-FAIR", "ETH-WINGS", "BTC-XST", "BTC-BRK", "ETH-GUP", "BTC-CURE", "BTC-DTB", "BTC-SWIFT", "ETH-LUN", "BTC-2GIVE", "BTC-PKB", "BTC-BYC", "ETH-UKG", "ETH-TRST", "BTC-TRUST", "BTC-RBY", "BTC-GAM", "BTC-SEQ", "ETH-FCT", "ETH-TIX", "ETH-NMR", "ETH-LGD", "ETH-CRB"], - черный список. В этих парах запрещено торговать боту, даже если аналитика предоставит эту пару для торгов она не будет добавлена в торги, бот её проигнорирует.
+"cloud_backup":1, - хранить бэкап в облаке
+"backup_off":0} – локальное хранение бэкапа отключено
