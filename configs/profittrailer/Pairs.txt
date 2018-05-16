@@ -7,7 +7,6 @@
 ###Общие настройки###
 start_balance = 0
 market = BTC
-enabled_pairs = ALL
 keep_balance = 0
 
 #Разрешаем торговать на парах только с BTC
