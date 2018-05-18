@@ -112,6 +112,7 @@ We are looking for a partner for the development of the project. You are an Engl
 
 * [Подробное описание и ответы на вопросы](configs/profittrailer/README.md)
 * [configs](configs/profittrailer)
+* Реферальная программа: https://profittrailer.com/pt/cryptostupidity/ или реферальный код cryptostupidity
 
 ### SWbot
 Консольный бот с веб-интерфейсом. Работает на нескольких парах одновременно. Вебпанель со статистикой торгов, графиком и торговым терминалом. Аналог Profit Trailer, но от российского разработчика и проще в настройке. Демо-режим реальными деньгами только в парах с BTC и ограничением депо 0.025 BTC. Месяц подписки 25$.
