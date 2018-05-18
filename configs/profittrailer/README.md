@@ -20,6 +20,7 @@
 * Реферальный код при покупке Profit Trailer: CryptoStupidity. Укажите и это поможет поддержать проект "Крипто глупости" и переодически мотивировать нас, выкладывать свежие конфиги. Заранее спасибо!
 * [Сравнительная таблица по ботам](https://docs.google.com/spreadsheets/d/1VMG21PQHvU3cDLZ6fLL17TWjiEgWzSpRfk3jA37MMUg/edit?usp=sharing) где Profit Trailer занимает одну из лидирующих позиций. Рекомендуем к применению продвинутым "ботоводам".
 * [Видео-уроки по работе с Profit Trailer на русском языке](https://www.youtube.com/watch?v=c3eR-OKFsfc&list=PLbYtQ6_YnkBQI9yNPVnkm2KdezumK2aqH)
+* Реферальный код при покупке Profit Trailer: https://profittrailer.com/pt/cryptostupidity/. Укажите и это поможет поддержать проект "Крипто глупости" и переодически мотивировать нас, выкладывать свежие конфиги. Заранее спасибо!
 
 ## Цена
 
