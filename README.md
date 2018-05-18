@@ -87,6 +87,10 @@ We are looking for a partner for the development of the project. You are an Engl
 
 [Расширенная версия таблицы "Анализ криптобирж"](https://docs.google.com/spreadsheets/d/1rsu_Z6FK113dWYq04NMaZXaQZ1cLDC0yktnhc3fkzF4/edit?usp=sharing) от @UltraPochan
 
+### Как заводить деньги на биржу и выводить с биржи
+
+[Transfer Wise](https://transferwise.com/u/vitalijk67) мультивалютный кошелек с минимальной комисией.
+
 ## Торговые боты
 Конфиги (```configs```) для ботов и ответы на основные вопросы, вы сможете найти в папке ```configs/<имябота>``` или перейти по ссылки из описания ниже.
 
