@@ -23,7 +23,8 @@
 
 * [Официальный сайт бота SWbot](http://swbot.info)
 * [Официальный FAQ SWbot](http://swbot.info/faq)
-* [Телеграм-канал технической поддержки Gbota](https://t.me/Smart_bot_alfa)
+* [Телеграм-канал технической поддержки SWbot](https://t.me/Smart_bot_alfa)
+* [Официальный форум бота](http://swbot.mybb.ru)
 * [Видео-уроки по использованию SWbot](https://www.youtube.com/watch?v=ol7kUz-SLmc&list=PLbYtQ6_YnkBRwVXGr9sxdJrwSLIp6pIoz)
 * Реферальный код при покупке SWbot: http://swbot.info/signup?ref=99 или реферальный код 99. Укажите и это поможет поддержать проект "Крипто глупости" и переодически мотивировать нас, выкладывать свежие конфиги. Заранее спасибо!
 * [Сравнительная таблица по ботам](https://docs.google.com/spreadsheets/d/1VMG21PQHvU3cDLZ6fLL17TWjiEgWzSpRfk3jA37MMUg/edit?usp=sharing) где SWbot занимает одну из лидирующих позиций. Рекомендуем к применению новичкам.
