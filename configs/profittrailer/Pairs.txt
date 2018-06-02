@@ -16,7 +16,7 @@ price_trigger_market = BTC
 
 #В каких парах разрешаем торговать. Рассчитано кол-во пар на 1 BTC. Если у вас баланс на бирже меньше, уменьшайте количество пар пропорционально.
 DEFAULT_trading_enabled = true
-enabled_pairs = BTC_DOGE, BTC_ETH, BTC_XRP, BTC_BCH, BTC_LTC, BTC_STR, BTC_XMR, BTC_DASH, BTC_XEM, BTC_ETC, BTC_OMG, BTC_LSK, BTC_ZEC, BTC_BCN, BTC_STEEM, BTC_BTS, BTC_SC, BTC_STRAT, BTC_ZRX, BTC_GNT, BCT_DCR
+enabled_pairs = DOGE, ETH, XRP, BCH, LTC, STR, XMR, DASH, XEM, ETC, OMG, LSK, ZEC, BCN, STEEM, BTS, SC, STRAT, ZRX, GNT, DCR
 
 #Разрешаем торговать только теме парами, которые добавлены на биржу не менее чем указанное количество в днях
 pair_min_listed_days = 0
