@@ -45,7 +45,7 @@
 
 [Сайт тренинга](http://cryptostupidity.com/)
 
-[Частые вопросы, которые задают перед началом](https://www.buh-seminar.ru/crypto-voprosy)
+[Частые вопросы, которые задают перед началом](docs/course.md#Ответы-на-частые-вопросы)
 
 [Программа тренинга](https://www.buh-seminar.ru/crypto-programma)
 
