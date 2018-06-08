@@ -46,7 +46,7 @@ We are looking for a partner for the development of the project. You are an Engl
 
 [Сайт тренинга](http://www.cryptostupidity.com/)
 
-[Частые вопросы, которые задают перед началом](https://www.buh-seminar.ru/crypto-voprosy)
+[Частые вопросы, которые задают перед началом](course.md#Ответы-на-частые-вопросы)
 
 [Программа тренинга](https://www.buh-seminar.ru/crypto-programma)
 
